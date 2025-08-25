@@ -2,7 +2,7 @@
 
 #### Description
 {**When you're done, you can delete the content in this README and update the file with details for others getting started with your repository**}
-1232221fomo@@fyinformation=cc@@hansheng
+1232221fomohansheng
 11222
 #### Software Architecture
 Software architecture description
